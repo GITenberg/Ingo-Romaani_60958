@@ -1,5 +1,8 @@
 _repo: Ingo-Romaani_60958
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Freytag, Gustav
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8864
     wikipedia: http://en.wikipedia.org/wiki/Gustav_Freytag
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60958#Ingo-Romaani
 gutenberg_issued: '2019-12-18'
 gutenberg_type: Text
 identifiers:
